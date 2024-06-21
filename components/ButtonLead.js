@@ -3,7 +3,7 @@
 import { useState, useRef } from "react";
 import { toast } from "react-hot-toast";
 import apiClient from "@/libs/api";
-
+//c moi
 // This component is used to collect the emails from the landing page
 // You'd use this if your product isn't ready yet or you want to collect leads
 // For instance: A popup to send a freebie, joining a waitlist, etc.
